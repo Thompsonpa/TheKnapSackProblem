@@ -1,0 +1,13 @@
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.exe
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.deps.json
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.runtimeconfig.json
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.runtimeconfig.dev.json
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.dll
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\bin\Debug\netcoreapp3.1\KnapSackProblem.pdb
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.csprojAssemblyReference.cache
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.AssemblyInfoInputs.cache
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.AssemblyInfo.cs
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.csproj.CoreCompileInputs.cache
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.dll
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.pdb
+C:\Users\thomp\source\repos\TheKnapSackProblem\KnapSackProblem\KnapSackProblem\obj\Debug\netcoreapp3.1\KnapSackProblem.genruntimeconfig.cache
